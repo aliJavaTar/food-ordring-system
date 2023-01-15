@@ -1,4 +1,4 @@
-package com.food.ordering.system.domain;
+package com.food.ordering.system.domain.aggregate;
 
 import com.food.ordering.system.domain.entity.base.BaseEntity;
 
